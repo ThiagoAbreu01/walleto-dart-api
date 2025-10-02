@@ -1,0 +1,1 @@
+enum CustomPlatform { ios, android }
